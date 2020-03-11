@@ -35,7 +35,7 @@
     "NAME": "녹슨 사이드암",
     "DESCRIPTION": "총. 피해를 !D! 줍니다. NL 반자동. 탄창 !DemoModCapacity!."
   },
-  "DemoMod:ManualReload": {
+ "DemoMod:ManualReload": {
     "NAME": "수동 재장전",
     "DESCRIPTION": "버린 카드 더미에 있는 총 을 선택합니다, 재장전 한 후 손으로 가져옵니다.",
     "UPGRADE_DESCRIPTION": "뽑을 카드 더미나 버린 카드 더미에 있는 총 을 선택합니다, 재장전 한 후 손으로 가져옵니다."
@@ -46,7 +46,7 @@
   },
   "DemoMod:TableSutra": {
     "NAME": "테이블 수트라",
-    "DESCRIPTION": "턴 시작시, 무작위 테이블 기술을 손으로 가져옵니다."
+    "DESCRIPTION": "턴 시작시, 무작위 테이블 기술 을 손으로 가져옵니다."
   },
   "DemoMod:TableTechSight": {
     "NAME": "테이블 기술:마음의 눈",
@@ -81,7 +81,7 @@
     "NAME": "테이블 기술:기절",
     "DESCRIPTION": "방어도 를 !B! 얻습니다. 이번 턴 모든 적을 기절시킵니다. NL 휘발성. 소멸."
   },
-  "DemoMod:TripleGun": {
+ "DemoMod:TripleGun": {
     "NAME": "트리플 건",
     "DESCRIPTION": "총. 탄창 3:피해를 !D! 줍니다. 탄창 2:피해를 !D! 만큼 2 번 줍니다. 탄창 1: 모든 적에게 !M! 의 피해를 입힙니다. 탄창 !DemoModCapacity!.",
     "EXTENDED_DESCRIPTION": [
@@ -102,7 +102,7 @@
     "NAME": "SAA",
     "DESCRIPTION": "총. 피해를 !D! 줍니다. 이 카드를 재장전 하면, 카드를 !M! 장 뽑습니다. 반자동. NL 탄창 !DemoModCapacity!."
   },
-  "DemoMod:Behold!": {
+ "DemoMod:Behold!": {
     "NAME": "주시!",
     "DESCRIPTION": "[E] 를 얻습니다. 뽑을 카드 더미와 버릴 카드 더미에서 총 들을 선택해, 내 손에 넣습니다. NL 소멸.",
     "UPGRADE_DESCRIPTION": "[E] [E] 를 얻습니다. 뽑을 카드 더미와 버릴 카드 더미에서 총 들을 선택해, 내 손에 넣습니다. NL 소멸."
@@ -116,7 +116,7 @@
     "DESCRIPTION": "피해를 !D! 줍니다. 덱에 있는 총 하나당 피해량이 !M! 증가합니다."
   },
   "DemoMod:FastSwitch": {
-    "NAME": "빼른 스위칭",
+    "NAME": "빠른 스위칭",
     "DESCRIPTION": "카드를 1 장 뽑습니다. 뽑을 카드 더미 맨 위를 봅니다. 만약 그 카드가 총이라면, 손으로 가져옵니다.",
     "UPGRADE_DESCRIPTION": "카드를 1 장 뽑습니다. 뽑을 카드 더미에서 총 을 손으로 가져옵니다."
   },
@@ -126,7 +126,7 @@
   },
   "DemoMod:StickyCrossBow": {
     "NAME": "끈적끈적 석궁",
-    "DESCRIPTION": "총. 피해를 !D! 줍니다. 폭발 화살을 !M! 부여합니다. 반자동. NL 탄창 !DemoModCapacity!."
+    "DESCRIPTION": "총. 피해를 !D! 줍니다. 폭발 화살 을 !M! 부여합니다. 반자동. NL 탄창 !DemoModCapacity!."
   },
   "DemoMod:RadGun": {
     "NAME": "라드 건",
@@ -138,7 +138,7 @@
     "DESCRIPTION": "카드를 4 장 뽑습니다. 총이 아닌 카드를 버립니다.",
     "UPGRADE_DESCRIPTION": "카드를 4 장 뽑습니다. 총이 아닌 카드를 버립니다. NL 버린 카드 더미에서 카드를 한 장 손으로 가져옵니다."
   },
-  "DemoMod:Eureka": {
+ "DemoMod:Eureka": {
     "NAME": "유레카!",
     "DESCRIPTION": "총 을 !M! 장 뽑을때까지 카드를 뽑습니다. 소멸."
   },
@@ -180,13 +180,13 @@
     "DESCRIPTION": "모든 총이 탄창 이 비어도 공격할 수 있습니다. NL 탄창이 비었을때 발사하면 소멸됩니다."
   },
   "DemoMod:SpreadAmmo": {
-    "NAME": "갈색탄약 상자",
+    "NAME": "갈색 탄약 상자",
     "DESCRIPTION": "모든 총 카드를 재장전합니다. 소멸."
   },
-  "DemoMod:CursedBullets": {
+ "DemoMod:CursedBullets": {
     "NAME": "저주받은 총탄",
-    "DESCRIPTION": "내가 가지고 있는 저주포인트의 반만큼 힘을 얻습니다.",
-    "UPGRADE_DESCRIPTION": "선천성. 내가 가지고 있는 저주포인트의 반만큼 힘을 얻습니다."
+    "DESCRIPTION": "내가 가지고 있는 저주포인트 의 반만큼 힘을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "선천성. 내가 가지고 있는 저주포인트 의 반만큼 힘을 얻습니다."
   },
   "DemoMod:ShadowBullets": {
     "NAME": "그림자 탄환",
@@ -226,7 +226,7 @@
     "NAME": "비-충전",
     "DESCRIPTION": "이 카드를 일반적으로 사용합니다."
   },
-  "DemoMod:MegaHand": {
+   "DemoMod:MegaHand": {
     "NAME": "메가핸드",
     "DESCRIPTION": "총. 피해를 !D! 줍니다. 충전: 피해를 !M! 줍니다. 탄창 !DemoModCapacity!.",
     "EXTENDED_DESCRIPTION": [
@@ -268,10 +268,15 @@
     "NAME": "방향 패드",
     "DESCRIPTION": "총. 피해를 !D! 줍니다. 이번 전투에서 직전에 사용한 카드가 공격카드일 경우, 방어도 를 !B! 얻습니다. 탄창이 비었을때 사용하면, 무작위 보상을 보상화면에 추가하고 덱에서 제거합니다. 탄창 !DemoModCapacity!."
   },
-  "DemoMod:Unmoved": {
+   "DemoMod:Unmoved": {
     "NAME": "냉정함",
     "DESCRIPTION": "방어도 를 !B! 얻습니다. 이번 전투에서 마지막으로 사용한 공격카드를 손으로 가져옵니다.",
-    "UPGRADE_DESCRIPTION": "방어도 를 !B! 얻습니다. 이번 전투에서 마지막으로 사용한 공격카드를 2 장 손으로 가져옵니다."
+     "UPGRADE_DESCRIPTION": "방어도 를 !B! 얻습니다. 이번 전투에서 마지막으로 사용한 공격카드를 2 장 손으로 가져옵니다."
+    "EXTENDED_DESCRIPTION": [
+	  "(마지막으로 ",
+      " 사용한 공격카드:",
+      ")"
+    ]
   },
   "DemoMod:DarkMarker": {
     "NAME": "암흑 표지",
@@ -358,7 +363,7 @@
     ]
   },
   "DemoMod:PracticeMakesPerfect": {
-    "NAME": "Practice Makes Perfect",
+    "NAME": "연습이 완벽을 만든다",
     "DESCRIPTION": "이번 전투에서 재장전한 총 하나당 [E] 가 1씩 감소합니다. 카드를 !M! 장 뽑습니다."
   },
   "DemoMod:BulletBore": {
@@ -380,8 +385,8 @@
   },
   "DemoMod:Ejector": {
     "NAME": "이젝터",
-    "DESCRIPTION": "내 손에서 총 을 1장 선택하여 탄창을 비웁니다.",
-    "UPGRADE_DESCRIPTION": "내 손에서 총 들을 선택하여 탄창을 비웁니다."
+    "DESCRIPTION": "내 손에서 총 을 1장 선택하여 탄창 을 비웁니다.",
+    "UPGRADE_DESCRIPTION": "내 손에서 총 들을 선택하여 탄창 을 비웁니다."
   },
   "DemoMod:GunShield": {
     "NAME": "총기방패",
@@ -394,6 +399,11 @@
   "DemoMod:OldTrick": {
     "NAME": "뻔한 수법",
     "DESCRIPTION": "피해를 !D! 줍니다. NL 이번 전투에서 마지막으로 사용한 스킬카드를 손으로 가져옵니다."
+	"EXTENDED_DESCRIPTION": [
+      "(마지막으로",
+      "사용한 스킬카드：",
+      ")"
+    ]
   },
   "DemoMod:ZorGun": {
     "NAME": "조르건",

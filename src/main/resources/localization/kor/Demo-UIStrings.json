@@ -223,6 +223,12 @@
       "#y총 #y블랙홀건 이 추가적으로 모든 적에게 #y포박 #b8 을 부여합니다."
     ]
   },
+  "DemoMod:BlessingAndACurse": {
+    "TEXT": [
+      "축복이자 저주",
+      "#y저주 에 걸린 적들을 4마리 처치할때마다, 매 전투 시작시 #y힘 을 #b1 얻습니다."
+    ]
+  },
   "DemoMod:ComboManualScreen": {
     "TEXT": [
       "뒤로",

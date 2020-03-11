@@ -55,13 +55,13 @@
   "DemoMod:ResourcefulRat": {
     "NAME": "쥐갈 공명",
     "DIALOG": [
-      "I've just warmed up. Now I want to #r@melt@ you!",
-      "It seems that we are doomed to fight again and again. NL #r@Die, usurper!@",
-      "The most handsome king",
-      "Your arrogance",
-      "You don't have enough body skills",
-      "Someone stronger than you",
-      "You're a little aggressive"
+      "이건 몸풀기임다. 이제 #r@녹아버릴@ 준비하십쇼!",
+      "우리가 이 일을 계속 반복할 운명이었던 모양인 것 같슴다. NL #r@죽으십쇼@, #r@이@ #r@강탈자!@",
+      "엄청 잘생긴 왕",
+      "당신의 오만함",
+      "신체능력이 부족하시군요",
+      "당신보다 강한 자",
+      "조금 공격적이시군요"
     ],
     "MOVES": [
       "Dagger Spray",
