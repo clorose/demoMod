@@ -1,0 +1,272 @@
+{
+  "DemoMod:BlackBladePower": {
+    "NAME": "블랙 블레이드",
+    "DESCRIPTIONS": [
+      "#y화이트 #y블레이드 의 피해량을 #g",
+      " 증가시킵니다. #y화이트 #y블레이드 를 사용하고 #y화이트 #y블레이드 효과를 적용시킨 뒤 , 이 효과를 제거합니다. 턴이 종료될 때, 이 수치를 절반으로 줄입니다."
+    ]
+  },
+  "DemoMod:WhiteBladePower": {
+    "NAME": "화이트 블레이드",
+    "DESCRIPTIONS": [
+      "#y화이트 #y블레이드 의 피해량을 #g",
+      " 증가시킵니다. #y화이트 #y블레이드 를 사용하고 #y화이트 #y블레이드 효과를 적용시킨 뒤 , 이 효과를 제거합니다."
+    ]
+  },
+  "DemoMod:LoseFlightPower": {
+    "NAME": "임시 비행",
+    "DESCRIPTIONS": [
+      "턴 시작시, #y비행 효과를 제거합니다."
+    ]
+  },
+  "DemoMod:TableSutraPower": {
+    "NAME": "테이블 수트라",
+    "DESCRIPTIONS": [
+      "턴 시작시, 내 손에 #b",
+      " 무작위 #y테이블 #y기술 카드를 추가합니다."
+    ]
+  },
+  "DemoMod:DoubleShootPower": {
+    "NAME": "더블 비전",
+    "DESCRIPTIONS": [
+      "이번 턴, 다음에 사용하는 총이 2 번 발사됩니다.",
+      "이번 턴, 다음에 사용하는 총 #g",
+      " 장이 2 번 발사됩니다."
+    ]
+  },
+  "DemoMod:OutOfBodyPower": {
+    "NAME": "유체 이탈",
+    "DESCRIPTIONS": [
+      "이 대상이 차단되지않은 공격피해를 받으면, #r",
+      " 만큼 체력을 잃고 유체 이탈 수치를 #b1 감소시킵니다."
+    ]
+  },
+  "DemoMod:ExplosiveArrowheadsPower": {
+    "NAME": "폭발 화살",
+    "DESCRIPTIONS": [
+      "#y끈적끈적 #y석궁 이 재장전 될때마다, #r",
+      " 수치만큼 피해를 입고, 이 효과를 제거합니다."
+    ]
+  },
+  "DemoMod:EasyReloadPower": {
+    "NAME": "간편 재장전 총탄",
+    "DESCRIPTIONS": [
+      "#y스킬을 사용할때마다, 내 손에 있는 무작위 총의 #y탄창 을 #g",
+      " 1 발 채웁니다(재장전 효과는 발동하지 않습니다).",
+      " NL #gCombo -굴러서 장전: 이 효과로 인해 #y탄창 이 가득차면, #y총 의 #y재장전 효과가 발동합니다."
+    ]
+  },
+  "DemoMod:LeadSkinPower": {
+    "NAME": "납 피부",
+    "DESCRIPTIONS": [
+      "받는 피해가 #b",
+      " 미만이면, 피해를 #b1 로 줄입니다."
+    ]
+  },
+  "DemoMod:EurekaPower": {
+    "NAME": "유레카!",
+    "DESCRIPTIONS": [
+      "#y총 을 #b",
+      " 장 뽑을때까지 카드를 뽑습니다."
+    ]
+  },
+  "DemoMod:ChanceBulletsPower": {
+    "NAME": "확률탄",
+    "DESCRIPTIONS": [
+      "#y총 을 발사할때마다 #g",
+      "% 확률로 내가 가지고 있는 다른 무기의 공격으로 바뀝니다.",
+      "% 확률로 내가 가지고 있는 다른 무기의 공격을 추가합니다."
+    ]
+  },
+  "DemoMod:SkilledReloadPower": {
+    "NAME": "능숙한 장전",
+    "DESCRIPTIONS": [
+      "내가 #y재장전 할때마다, 카드를 #g",
+      " 장 뽑습니다."
+    ]
+  },
+  "DemoMod:StrengthOfCursePower": {
+    "NAME": "저주의 힘",
+    "DESCRIPTIONS": [
+      "최대체력이 #g",
+      "%，증가하고 #y힘 을 #g",
+      " 증가시킵니다."
+    ]
+  },
+  "DemoMod:SlingerPower": {
+    "NAME": "슬링거",
+    "DESCRIPTIONS": [
+      "모든 #y총 이 #y탄창 이 비어도 피해를 줄수 있습니다. NL 모든 #y총 이 #y탄창 이 비었을때 발사하면 #y소멸 됩니다."
+    ]
+  },
+  "DemoMod:JammedPower": {
+    "NAME": "지배",
+    "DESCRIPTIONS": [
+      "모든 피해에 면역입니다."
+    ]
+  },
+  "DemoMod:ShadowBulletsPower": {
+    "NAME": "그림자 총탄",
+    "DESCRIPTIONS": [
+      "#y총 을 발사할때마다 #g",
+      "% 확률로 2 번 발사합니다."
+    ]
+  },
+  "DemoMod:FullFirePower": {
+    "NAME": "전탄 발사",
+    "DESCRIPTIONS": [
+      "다음에 사용하는 #y총 이 #y탄창 을 모두 소모할때까지 발사됩니다.",
+      "다음에 사용하는 #y총 #g",
+      " 장이 #y탄창 을 모두 소모할때까지 발사됩니다."
+    ]
+  },
+  "DemoMod:BlankBulletsPower": {
+    "NAME": "공포탄 총탄",
+    "DESCRIPTIONS": [
+      "총을 쏠때마다 #g",
+      "% 확률로 적을 기절시킬수있습니다."
+    ]
+  },
+  "DemoMod:PlatinumBulletsPower": {
+    "NAME": "백금 총탄",
+    "DESCRIPTIONS": [
+      "#y총 카드를 사용할때마다, #g",
+      " #y힘 또는 #g",
+      " #y민첩 을 얻습니다."
+    ]
+  },
+  "DemoMod:ChaosBulletsPower": {
+    "NAME": "혼돈 총탄",
+    "DESCRIPTIONS": [
+      "#y총 을 쏠때마다  #g",
+      "% 확률로 적에게 부정적인 효과를 #b1 부여합니다."
+    ]
+  },
+  "DemoMod:RedMarkPower": {
+    "NAME": "레드 마커",
+    "DESCRIPTIONS": [
+      "#y파란 #y마커 와 만나면, 모든 마커를 제거하고, 피해를 #b6 주고 이번 턴에 대상을 기절시킵니다."
+    ]
+  },
+  "DemoMod:BlueMarkPower": {
+    "NAME": "블루 마커",
+    "DESCRIPTIONS": [
+      "#y빨간 #y마커 와 만나면, 모든 마커를 제거하고, 피해를 #b6 주고 이번 턴에 대상을 기절시킵니다."
+    ]
+  },
+  "DemoMod:BlueGuonStonePower": {
+    "NAME": "블루 구온석",
+    "DESCRIPTIONS": [
+      "내 다음 #g",
+      " 턴 동안, #y방어도 를 #b20 얻습니다."
+    ]
+  },
+  "DemoMod:MozambiqueDrillPower": {
+    "NAME": "모잠비크 드릴",
+    "DESCRIPTIONS": [
+      "한 턴에 #g",
+      " 번 #y총 을 쏘면, 다음에 사용 하는 카드는 #g",
+      " 배의 피해를 줍니다.",
+      "다음에 사용하는 카드가 #g",
+      " 배의 피해를 줍니다."
+    ]
+  },
+  "DemoMod:ControlPower": {
+    "NAME": "조종",
+    "DESCRIPTIONS": [
+      "이번 턴, #y공격 카드를 사용할때마다, 해당 의도를 가지고 같은 대상에게 행동합니다. NL 조종에서 벗어나면, #r",
+      " 체력을 잃습니다."
+    ]
+  },
+  "DemoMod:SelfExplodePower": {
+    "NAME": "자폭",
+    "DESCRIPTIONS": [
+      "죽을때, 피해를 #g",
+      " 만큼 플레이어에게 줍니다."
+    ]
+  },
+  "DemoMod:AlertModePower": {
+    "NAME": "경계 모드",
+    "DESCRIPTIONS": [
+      "죽을때, #g",
+      " #y마우저 를 소환하고 #b1 만큼 수치를 줄이고, 다른 소환된 #y마우저 에게 분배합니다."
+    ]
+  },
+  "DemoMod:BlessPower": {
+    "NAME": "축복",
+    "DESCRIPTIONS": [
+      "이 효과를 얻으면, #g",
+      " #y힘 과 #g",
+      " #y재생을 동시에 얻습니다."
+    ]
+  },
+  "DemoMod:HighPressurePower": {
+    "NAME": "강압",
+    "DESCRIPTIONS": [
+      "이번 턴, 다음 번에 사용하는 카드가 #y",
+      " 가 아니면, 턴을 종료시킵니다.",
+      "강압의 효과가 바뀌었다",
+      "공격",
+      "스킬",
+      "파워"
+    ]
+  },
+  "DemoMod:SniperWoofPower": {
+    "NAME": "스나이퍼 우프",
+    "DESCRIPTIONS": [
+      "턴 시작시, 다음 사용하는 #y공격 이 #g1.5 배의 피해를 입힙니다."
+    ]
+  },
+  "DemoMod:BulletSprayPower": {
+    "NAME": "총알 분사",
+    "DESCRIPTIONS": [
+      "카드를 #b",
+      " 장 쓰면, #r6 피해를 입힙니다. 이 효과가 제거될려면 #b",
+      " 번 사용되어야합니다."
+    ]
+  },
+  "DemoMod:HomingMissilePower": {
+    "NAME": "호밍 미사일",
+    "DESCRIPTIONS": [
+      "#b",
+      " 턴 후에, 피해 #b",
+      " 를 플레이어에게 줍니다.",
+      "턴이 끝날때, 피해 #b"
+    ]
+  },
+  "DemoMod:BulletBorePower": {
+    "NAME": "생각 훔치기",
+    "DESCRIPTIONS": [
+      "다음 턴이 시작할때, 이 적을 #y기절 시키고 모든 적에게 #b",
+      " 의 피해를 줍니다."
+    ]
+  },
+  "DemoMod:GunslingerPower": {
+    "NAME": "건슬링어 폼",
+    "DESCRIPTIONS": [
+      "#y총 을 발사할때마다 #y재장전 효과도 같이 발동시킵니다."
+    ]
+  },
+  "DemoMod:CongealedPower": {
+    "NAME": "응고됨",
+    "DESCRIPTIONS": [
+      "응고 #b10 을 적에게 부여할때마다, 해당 적은 이번 턴 행동할 수 없습니다. NL 대상이 죽으면, 응고를 모든 적들에게 똑같이 나누어 줍니다.",
+      "응고됨",
+      "이 적은 이번 턴 응고되어서, 움직일 수 없습니다."
+    ]
+  },
+  "DemoMod:PacManPower": {
+    "NAME": "팩맨",
+    "DESCRIPTIONS": [
+      "당신은 무적입니다!"
+    ]
+  },
+  "DemoMod:SuppressiveFirePower": {
+    "NAME": "진압 사격",
+    "DESCRIPTIONS": [
+      "이번 턴, 내 손에 있는 모든 #y총들 이 #y반자동 을 얻습니다.",
+      "이번 턴, 내 손에 있는 #y",
+      " 는 #y반자동 을 얻었습니다."
+    ]
+  }
+}

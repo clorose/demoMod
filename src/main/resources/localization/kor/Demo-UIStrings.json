@@ -1,0 +1,242 @@
+{
+  "DemoMod:ReloadAction": {
+    "TEXT": [
+      "수동 장전할 카드를 선택하세요."
+    ]
+  },
+  "DemoMod:EjectAction": {
+    "TEXT": [
+      "선택하여 탄창을 비우십시오."
+    ]
+  },
+  "DemoMod:SuppressiveFireAction": {
+    "TEXT": [
+      "이번턴에 반자동을 얻을 카드를 선택하십시오."
+    ]
+  },
+  "DemoMod:BetterGunCardInDiscardPileToHandAction": {
+    "TEXT": [
+      "손으로 가져올 카드를 선택하십시오.",
+      "손으로 가져올 카드를",
+      " 장 선택하십시오.",
+      "손에 넣을 카드들을 선택하십시오"
+    ]
+  },
+  "DemoMod:FastSwitchAction": {
+    "TEXT": [
+      "뽑을 카드 맨 위의 카드입니다. 총이라면, 뽑을 수 있습니다."
+    ]
+  },
+  "DemoMod:AfterStole": {
+    "TEXT": [
+      "#r@도둑이야!@",
+      "#r@너한텐@ #r@안팔아@, #r@이@ #r@도둑놈!@"
+    ]
+  },
+  "DemoMod:CurseValueTip": {
+    "TEXT": [
+      "저주 수치",
+      "특정 카드, 유물 그리고 이벤트는 저주 수치를 증가시킵니다. 저주 수치가 높아질수록, 궁지에 몰린 자 들이 나올 확률이 증가합니다(10 이상 일때 50%). 저주받은 적은 더 많은 골드를 떨어뜨립니다. 저주 포인트가 10 이상이면, #y궁지에 #y몰린 #y자들의 #y지배자 가 매 전투마다 참전합니다."
+    ]
+  },
+  "DemoMod:GuonStone": {
+    "TEXT": [
+      "유리 구온석"
+    ]
+  },
+  "DemoMod:StrategicReserveAction": {
+    "TEXT": [
+      "뽑을 카드 맨 위로 올릴 카드를 선택하십시오."
+    ]
+  },
+  "DemoMod:Maze": {
+    "TEXT": [
+      "미궁",
+      "미지"
+    ]
+  },
+  "DemoMod:ModPanel": {
+    "TEXT": [
+      "헌터가 아닌 캐릭터에게 미믹이 나옵니다.",
+      "카메라의 VFX 를 끕니다."
+    ]
+  },
+  "DemoMod:TheRedHood": {
+    "TEXT": [
+      "빨간 모자",
+      "목표물을 공격한 후, #y늑대가 #y약화 를 #b1 부여합니다."
+    ]
+  },
+  "DemoMod:SniperWoof": {
+    "TEXT": [
+      "스나이퍼 우프",
+      "턴 시작시, 다음 사용하는 #y공격 이 #g1.5 배의 피해를 입힙니다."
+    ]
+  },
+  "DemoMod:TeaForTwo": {
+    "TEXT": [
+      "두 잔의 차",
+      "#y주전자 가 #y재장전 될때, #y주전자 의 효과로 부여하는 #y오메가 가 #b2 배가 됩니다."
+    ]
+  },
+  "DemoMod:-A-": {
+    "TEXT": [
+      "장비를 갖추시오 -A-",
+      "#y탄창 이 가득찬 메가핸드를 #y재장전 하는것으로 모드를 전환할 수 있습니다. 메가핸드가 풍선건과 같은 방식의 공격을 합니다"
+    ]
+  },
+  "DemoMod:-C-": {
+    "TEXT": [
+      "장비를 갖추시오 -C-",
+      "#y탄창 이 가득찬 메가핸드를 #y재장전 하는것으로 모드를 전환할 수 있습니다. 메가핸드가 불릿보어와 같은 방식의 공격을 합니다. 사용 한 후 기본모드로 전환됩니다."
+    ]
+  },
+  "DemoMod:-F-": {
+    "TEXT": [
+      "장비를 갖추시오 -F-",
+      "#y탄창 이 가득찬 메가핸드를 #y재장전 하는것으로 모드를 전환할 수 있습니다. 사용 한 후 기본모드로 전환됩니다."
+    ]
+  },
+  "DemoMod:Kaliber k'pow uboom k'bhang": {
+    "TEXT": [
+      "칼리버 크보우 우붐 크뱅",
+      "#y유체이탈 을 주문할때마다, 추가로 #y유체이탈 을 #b2 만큼 더 부여합니다."
+    ]
+  },
+  "DemoMod:EmptyVessels": {
+    "TEXT": [
+      "빈 수레",
+      "각 전투에서 한번씩 막히지 않은 피해를 입으면, 다음 턴이 시작할때 모든 적에게 #b30 의 피해를 입힙니다."
+    ]
+  },
+  "DemoMod:ReloadRoll": {
+    "TEXT": [
+      "굴러서 재장전",
+      "#y간편재장전총탄 으로 #y탄창 이 꽉 차면, #y총 의 #y재장전 효과가 발동합니다."
+    ]
+  },
+  "DemoMod:PrettyGood": {
+    "TEXT": [
+      "실력 있어",
+      "보상 화면에서 포션과 유물 보상이 더욱 향상됩니다."
+    ]
+  },
+  "DemoMod:WhatEngineDoYouUse": {
+    "TEXT": [
+      "무슨 엔진을 사용하였나요?",
+      "#y건진 을 #y재장전 하면, [E] 를 1 더 얻습니다. NL #y총기옥 의 피해가 가지고 있는 #y총 하나당 #b2 의 추가 데미지를 줍니다."
+    ]
+  },
+  "DemoMod:Antichamber": {
+    "TEXT": [
+      "안티 챔버",
+      "#y암흑표지 가 대상에게 #y빨간마커 와 #y파란마커 를 차례로 부여한다. 마커가 둘 다 있으면, 피해를 받고 기절한다."
+    ]
+  },
+  "DemoMod:ClearerGuonStone": {
+    "TEXT": [
+      "클리어 구온석",
+      "#y상태이상 카드가 뽑을 카드 더미로 들어가면 자동으로 #y소멸 시킵니다."
+    ]
+  },
+  "DemoMod:HumanShield": {
+    "TEXT": [
+      "인간 방패",
+      "적이 죽으면, 죽은 적 하나당 #y방어도 를 #b8 을 얻습니다."
+    ]
+  },
+  "DemoMod:EnterTheFruitgeon": {
+    "TEXT": [
+      "엔터 더 플룻전",
+      "오렌지 구온석의 피해가 #b7 로 증가합니다."
+    ]
+  },
+  "DemoMod:OrangerGuonStone": {
+    "TEXT": [
+      "오렌지 구온석",
+      "오렌지 구온석 공격이, VFX로 바뀝니다."
+    ]
+  },
+  "DemoMod:NaturalSelection": {
+    "TEXT": [
+      "자연의 선택",
+      "이볼버가 진화에 필요한 사격 횟수가 #b4 번으로 줄어듭니다."
+    ]
+  },
+  "DemoMod:PowerhouseOfTheCell": {
+    "TEXT": [
+      "세포의 발전소",
+      "이 콤보를 얻으면, 덱에 있는 모든 이볼버가 #b1 단계 진화합니다."
+    ]
+  },
+  "DemoMod:DeadlyDistraction": {
+    "TEXT": [
+      "데들리 디스트럭션",
+      "미끼가 파괴되면, 모든 적에게 #b10 의 독을 부여합니다."
+    ]
+  },
+  "DemoMod:KageBunshin": {
+    "TEXT": [
+      "그림자 분신",
+      "미끼가 전투에 나와있으면, #y그림자 #y총탄 의 반드시 발동합니다."
+    ]
+  },
+  "DemoMod:DecoyOctorok": {
+    "TEXT": [
+      "디코이 옥토록",
+      "미끼의 최대체력이 방의 첫번째 적과 같아집니다 ( 최대 #b100 )."
+    ]
+  },
+  "DemoMod:KalibersGrip": {
+    "TEXT": [
+      "칼리버 그립",
+      "심해의 촉수가 부여하는 #y포박 이 2 배가 됩니다."
+    ]
+  },
+  "DemoMod:ResourcefulIndeed": {
+    "TEXT": [
+      "쥐갈 공명",
+      "플레이어의 외형을 쥐갈공명으로 바꿉니다."
+    ]
+  },
+  "DemoMod:SteelSkin": {
+    "TEXT": [
+      "스틸 스킨",
+      "더 이상 AC-15 가 #y방어도 를 소모하지 않습니다."
+    ]
+  },
+  "DemoMod:MrShadow": {
+    "TEXT": [
+      "미스터. 쉐도우",
+      "#y그림자 #y총탄 이 트리거 되면, 뽑을 카드 더미 맨 위에서 한장을 사용합니다."
+    ]
+  },
+  "DemoMod:CameraShy": {
+    "TEXT": [
+      "카메라 울렁증",
+      "#y카메라 의 #y탄창 이 #b2 발 이하라면, #y카메라 의 공격이 이번 턴에 모든 적을 기절시킵니다."
+    ]
+  },
+  "DemoMod:CosmicTerror": {
+    "TEXT": [
+      "코스믹 테러",
+      "#y총 #y블랙홀건 이 추가적으로 모든 적에게 #y포박 #b8 을 부여합니다."
+    ]
+  },
+  "DemoMod:ComboManualScreen": {
+    "TEXT": [
+      "뒤로",
+      "콤보 메뉴얼"
+    ]
+  },
+  "DemoMod:ComboDetailScreen": {
+    "TEXT": [
+      "또는",
+      "( 카드 )",
+      "( 유물 )",
+      "( 포션 )",
+      "콤보 효과",
+      "( 아무 곳이나 클릭하여 이 화면에서 벗어납니다. )"
+    ]
+  }
+}
